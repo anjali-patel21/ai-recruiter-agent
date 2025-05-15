@@ -20,7 +20,7 @@ Helix is an AI-powered recruitment assistant that helps streamline the hiring pr
 ## Project Structure
 
 ```
-SellScale/
+ai-recruiter-agent/
 ├── Backend/           # Flask backend server
 │   ├── app.py
 │   ├── db_config.py
